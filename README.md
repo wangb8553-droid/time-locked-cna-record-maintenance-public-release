@@ -5,7 +5,9 @@
 The current public package is version **5.8.2-r14**, a correction to publication-status and release-provenance metadata only. Scientific code, data, protocol, and results are unchanged from the earlier deposited r11 snapshot.
 
 - [Download the complete 5.8.2-r14 archive](https://zenodo.org/records/23033297/files/release_public_v5_8_2_20260929_r14.zip?download=1)
+- [Download the GitHub mirror of the 5.8.2-r14 archive](https://raw.githubusercontent.com/wangb8553-droid/time-locked-cna-record-maintenance-public-release/0b079a920619e690afaf22d4eecbeb7e46e4e593/release_public_v5_8_2_20260929_r14.zip)
 - [Download the SHA-256 checksum](https://zenodo.org/records/23033297/files/release_public_v5_8_2_20260929_r14.zip.sha256?download=1)
+- [Download the GitHub checksum](https://raw.githubusercontent.com/wangb8553-droid/time-locked-cna-record-maintenance-public-release/0b079a920619e690afaf22d4eecbeb7e46e4e593/release_public_v5_8_2_20260929_r14.zip.sha256)
 - [Open the versioned Zenodo record](https://zenodo.org/records/23033297)
 - Exact-version DOI: [10.5281/zenodo.23033297](https://doi.org/10.5281/zenodo.23033297)
 - All-versions DOI: [10.5281/zenodo.23032471](https://doi.org/10.5281/zenodo.23032471)
